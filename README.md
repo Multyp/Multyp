@@ -4,6 +4,11 @@ I'm a student at Epitech Paris in 1st year, reinforcing my skills mostly in C.
 
 I work on web side projects to learn all there is to learn about it and I'm currently learning NodeJS and VueJS
 
+
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=multyp&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=multyp&langs_count=5&theme=tokyonight)]()
+
 <!--
 **Multyp/Multyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
