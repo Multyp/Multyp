@@ -2,7 +2,7 @@
 
 I'm a student at Epitech Paris in 1st year, reinforcing my skills mostly in C.
 
-I work on web side projects to learn all there is to learn about it and I'm currently learning NodeJS and VueJS
+I work on web side projects to learn all there is to learn about it and I'm currently learning to use backend and frameworks !
 
 
 2
