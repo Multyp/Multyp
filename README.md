@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a student at Epitech Paris in 1st year, reinforcing my skills mostly in C.
+I'm a student at Epitech Paris in 2st year, reinforcing my skills mostly in C.
 
-I work on web side projects to learn all there is to learn about it and I'm currently learning to use backend and frameworks !
+I work on web side projects too
 
 
 
