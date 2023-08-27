@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm a student at Epitech Paris in 2st year, reinforcing my skills mostly in C.
+I'm a student at Epitech Paris in 2nd year, reinforcing my skills in C and learning C++ and Haskell.
 
-I work on web side projects too
-
+I work on a lot of web projects, learning through self-discovering, the Odin Project, reading docs and now in an Internship !
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=multyp&count_private=true&theme=tokyonight&showicons=true)]()
