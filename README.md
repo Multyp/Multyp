@@ -16,11 +16,12 @@ Constantly expanding my knowledge in web development, guided by self-discovery, 
 
 Always interested in open source projects and web-related collaborations. Let's build together!
 
+📫 **Reach Me:** [contact@multyp.net](mailto:contact@multyp.net)
+
+⚡ **Fun Fact:** I hate reading docs but I love it
+
 📊 **Stats and Languages:**
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=multyp&count_private=true&theme=tokyonight&show_icons=true)
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=multyp&langs_count=5&theme=tokyonight)
 
-📫 **Reach Me:** [contact@multyp.net](mailto:contact@multyp.net)
-
-⚡ **Fun Fact:** I hate reading docs but I love it
