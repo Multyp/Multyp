@@ -1,24 +1,20 @@
-### Hi there 👋
+## Hello there! 👋
 
-I'm a student at Epitech Paris in 2nd year, reinforcing my skills in C and learning C++ and Haskell.
+I'm a 2nd-year student at Epitech Paris, passionately exploring the world of coding and software engineering.
 
-I work on a lot of web projects, learning through self-discovering, the Odin Project, reading docs and now in an Internship !
+🔭 **Currently Crafting:**  
+Enhancing my C skills while venturing into the realms of C++ and Haskell at school.
+Working on web technologies at home, mainly on React.
 
+🌱 **Learning Journey:**  
+Constantly expanding my knowledge in web development, guided by self-discovery, the Odin Project, and deep dives into documentation. Also, gaining practical insights through an exciting internship at [Orosound](https://www.orosound.com/).
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=multyp&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=multyp&langs_count=5&theme=tokyonight)]()
+👯 **Collaboration Quest:**  
+Always interested in open source projects and web-related collaborations. Let's build together!
 
-<!--
-**Multyp/Multyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Stats and Languages:**
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=multyp&count_private=true&theme=tokyonight&show_icons=true)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=multyp&langs_count=5&theme=tokyonight)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach Me:** [contact@multyp.net](mailto:contact@multyp.net)
+⚡ **Fun Fact:** I hate reading docs but I love it
